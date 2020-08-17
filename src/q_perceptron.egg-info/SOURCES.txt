@@ -1,0 +1,7 @@
+README.md
+setup.py
+src/q_perceptron.egg-info/PKG-INFO
+src/q_perceptron.egg-info/SOURCES.txt
+src/q_perceptron.egg-info/dependency_links.txt
+src/q_perceptron.egg-info/requires.txt
+src/q_perceptron.egg-info/top_level.txt
