@@ -1,0 +1,6 @@
+qtip
+sklearn
+pandas
+matplotlib
+seaborn
+numpy
