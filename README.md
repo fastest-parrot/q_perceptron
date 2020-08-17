@@ -8,4 +8,9 @@ Or you could be lame and install via conda (not recommended)
 
 ## Overview
 
-Currently a single layer perceptron suited for binary classification problems. Supports 
+Currently a single layer perceptron suited for binary classification problems. 
+
+
+## Code Walkthrough
+
+https://screenrec.com/share/n7kYrPC4vx

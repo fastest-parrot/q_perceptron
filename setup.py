@@ -13,6 +13,6 @@ setuptools.setup(
     ],
     packages=setuptools.find_packages('src'),
     package_dir={'': 'src'},
-    #package_data={'q_perceptron': ['serc']},
+    #package_data={'q_perceptron': ['data']},
     #include_package_data=True
 )
