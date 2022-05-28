@@ -4,8 +4,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import warnings
 import pandas as pd
-from IPython.display import Markdown as md
-from IPython.display import display
+#from IPython.display import Markdown as md
+#from IPython.display import display
 warnings.filterwarnings("ignore")
 from sklearn.metrics import accuracy_score, mean_absolute_error
 

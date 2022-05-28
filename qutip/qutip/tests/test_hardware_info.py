@@ -1,0 +1,1 @@
+from qutip.qutip.hardware_info import hardware_info
